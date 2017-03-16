@@ -1,7 +1,7 @@
 # React Native Swipeout
 The iOS-style Swipeout component, implement with javascript, running on iOS and Android. High performance, interactive, and configurable.
 
-<img src="https://github.com/SmallComfort/rn-swipe-out/blob/master/example/img/android.gif" width="350"/>
+<img src="https://raw.githubusercontent.com/SmallComfort/rn-swipe-out/master/example/img/android.gif" width="350"/>
 
 ## Installation
 ```

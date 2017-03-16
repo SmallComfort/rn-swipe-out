@@ -1,9 +1,17 @@
 {
   "name": "rn-swipe-out",
-  "version": "0.1.0",
+  "version": "0.1.5",
   "description": "The iOS-style Swipeout component, implement with javascript, running on iOS and Android. High performance, interactive, and configurable.",
   "keywords": [
-    "swipeout", "react-native", "javascript", "ios", "android", "swipe", "animation", "performance"
+    "swipeout",
+    "react-native",
+    "javascript",
+    "ios",
+    "android",
+    "swipe-gestures",
+    "animation",
+    "high-performance",
+    "swipe"
   ],
   "author": "ChuangChuang",
   "bugs": {
@@ -21,7 +29,7 @@
     "react": "15.4.2",
     "react-native": "0.42.0",
     "babel-preset-react-native": "1.9.1",
-	  "eslint": "^3.12.2",
+    "eslint": "^3.12.2",
     "babel-eslint": "^7.1.1",
     "eslint-plugin-react": "^6.8.0",
     "eslint-plugin-react-native": "^2.2.1"
@@ -29,5 +37,12 @@
   "jest": {
     "preset": "react-native"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "directories": {
+    "example": "example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmallComfort/rn-swipe-out.git"
+  }
 }
