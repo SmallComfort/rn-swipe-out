@@ -74,9 +74,9 @@ useNativeDriver | true | Boolean | In react-native 0.40+, Swipeout setting its t
 - **`component`** _(Function)_ If the default option unable to meet your demand, you can set a custom component for Swipeout. Be careful once set a custom component, the option's click event will not close itself (Gesture to close can always work). So you have to hide it to execute a `hide` function. Swipeout seen `component` as a React Stateless Component and passing two useful props, which inner the source is ` <option.component hide={this.hide} animatedValue={this.panAnim} />`. In your component you can use `this.props.hide()` to close option. `animatedValue` is a `Animated.Value` instance which hold the Swipeout animation value, you can use to get some interactive animation. see the example to get more info.
 
 ## Example
-[Basic Use]()
+[Basic Use](example/basic)
 
-[Complete Example]()
+[Complete Example](example/complete)
 
 ---
 
