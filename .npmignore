@@ -1,0 +1,16 @@
+__tests__
+android
+ios
+node_modules
+example
+index.ios.js
+index.android.js
+jsconfig.json
+.vscode
+.babelrc
+.buckconfig
+.eslintrc
+.flowconfig
+.gitattributes
+.npmignore
+.watchmanconfig
