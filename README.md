@@ -1,7 +1,7 @@
 # React Native Swipeout
 The iOS-style Swipeout component, implement with javascript, running on iOS and Android. High performance, interactive, and configurable.
 
-<img src="example/img/ios.gif" width="350"/>   <img src="example/img/android.gif" width="350"/>
+<img src="example/img/android.gif" width="350"/>
 
 ## Installation
 ```
