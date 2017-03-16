@@ -41,8 +41,7 @@ const styles = StyleSheet.create({
     }
 });
 ```
-underlayColor: React.PropTypes.string,
-    activeOpacity: React.PropTypes.number,
+
 ## Props
 Prop | Default | Type | Description
 -----|---------|------|------------
