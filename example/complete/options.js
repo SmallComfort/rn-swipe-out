@@ -184,7 +184,7 @@ export default function() {
 
 const styles = StyleSheet.create({
     swipe: {
-        height: 44,
+        height: 160,
         marginTop: 16,
         justifyContent: 'center',
         borderTopWidth: StyleSheet.hairlineWidth,
@@ -194,6 +194,6 @@ const styles = StyleSheet.create({
         backgroundColor: '#fff'
     },
     custom: {
-        height: 80
+        height: 240
     }
 });
