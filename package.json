@@ -1,6 +1,6 @@
 {
   "name": "rn-swipe-out",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "The iOS-style Swipeout component, implement with javascript, running on iOS and Android. High performance, interactive, and configurable.",
   "keywords": [
     "swipeout",
