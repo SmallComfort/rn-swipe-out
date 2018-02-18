@@ -44,5 +44,8 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SmallComfort/rn-swipe-out.git"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.0"
   }
 }
