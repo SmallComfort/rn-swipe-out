@@ -1,6 +1,6 @@
 {
   "name": "rn-swipe-out",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "The iOS-style Swipeout component, implement with javascript, running on iOS and Android. High performance, interactive, and configurable.",
   "keywords": [
     "swipeout",
@@ -44,5 +44,8 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SmallComfort/rn-swipe-out.git"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.0"
   }
 }
